@@ -119,14 +119,14 @@ Nama class dan method di bawah **jangan diubah tanpa diskusi**. Menu bisa langsu
 
 ## 4. Pembagian tugas 6 orang
 
-| # | Nama | File yang dimiliki |
+| No | Nama | File yang dimiliki |
 |---|------|--------------------|
-| 1 | ............ | `models/user.py`, `services/user_service.py` |
-| 2 | ............ | `models/book.py`, `services/book_service.py` |
-| 3 | ............ | `models/loan.py`, `services/loan_service.py` |
-| 4 | ............ | `services/storage.py`, `data/*.json` |
-| 5 | ............ | `main.py`, `menu_member.py` |
-| 6 | ............ | `menu_admin.py` |
+| 1 | Farid | `models/user.py`, `services/user_service.py` |
+| 2 | Annisa | `models/book.py`, `services/book_service.py` |
+| 3 | Arya | `models/loan.py`, `services/loan_service.py` |
+| 4 | Yoga | `services/storage.py`, `data/*.json` |
+| 5 | Rega | `main.py`, `menu_member.py` |
+| 6 | Ghina | `menu_admin.py` |
 
 Aturan: **satu file, satu pemilik**. Mau mengubah file orang lain? Chat pemiliknya atau buat Issue di GitHub.
 
