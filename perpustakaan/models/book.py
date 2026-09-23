@@ -1,5 +1,4 @@
 """Physical and digital library item models."""
-"""Physical and digital library item models."""
 
 from abc import ABC, abstractmethod
 
