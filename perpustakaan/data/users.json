@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "user_id": "U001",
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin"
+    },
+    {
+        "user_id": "U002",
+        "username": "farid",
+        "password": "2509106087",
+        "role": "member",
+        "max_loans": 3
+    }
+]

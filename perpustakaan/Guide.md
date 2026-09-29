@@ -165,12 +165,6 @@ print(hashlib.sha256("member123".encode()).hexdigest())
 ```json
 [
   {
-    "id": "B001", "type": "physical",
-    "title": "Laskar Pelangi", "author": "Andrea Hirata",
-    "category": "Novel", "year": 2005,
-    "stock": 3, "available": 3
-  },
-  {
     "id": "D001", "type": "digital",
     "title": "Pengantar OOP dengan Python", "author": "Tim Dosen",
     "category": "Teknologi", "year": 2023,
